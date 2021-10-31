@@ -1,0 +1,9 @@
+apiVersion: v1
+name: techtrends
+description: TechTrends Project
+keywords:
+  - techtrends
+version: 1.0.0
+maintainers:
+  - name: quocanh944
+    email: quocanh944@gmail.com
